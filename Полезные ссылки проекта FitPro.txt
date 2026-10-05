@@ -1,0 +1,8 @@
+Полезные ссылки проекта FitPro:
+
+1. Figma-проект: https://www.figma.com/design/VKUavcOQXM47xc41x8lplvl/FitPro
+2. GitHub-репозиторий: https://github.com/Aspiefriend/pz3-pr-24.101-karablin-ivan
+3. Google Fonts Inter: https://fonts.google.com/specimen/Inter
+4. Android Developers: https://developer.android.com
+5. Git documentation: https://git-scm.com/doc
+6. Figma Learn: https://help.figma.com
